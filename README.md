@@ -41,7 +41,7 @@ Sensorgegevens worden opgeslagen in een InfluxDB database.
 -	MQTT: 
 Gebruik MQTT voor communicatie tussen sensoren/actuatoren en de Raspberry Pi.
 
-###Stappenplan te lezen bij documentatie
+### Stappenplan te lezen bij documentatie
 
 
 ### TIPS / EXTRA's
